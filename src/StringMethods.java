@@ -15,5 +15,20 @@ public class StringMethods {
 	{
 		return inputString;
 	}
+	
+	public static String removeDuplicates(String inputString)
+	{
+		return inputString;
+	}
+	
+	public static String countOccurences(String inputString)
+	{
+		return inputString;
+	}
+	
+	public static String pallindrome(String inputString)
+	{
+		return inputString;
+	}
 
 }
