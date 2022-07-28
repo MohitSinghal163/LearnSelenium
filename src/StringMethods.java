@@ -31,4 +31,8 @@ public class StringMethods {
 		return inputString;
 	}
 
+	public static void printPattern(int n)
+	{
+		
+	}
 }
